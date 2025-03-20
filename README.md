@@ -33,4 +33,4 @@ A simple iOS app that helps users perform Kegel exercises with visual guidance.
 ## Requirements
 - iOS 15.0+
 - Xcode 13.0+
-- Swift 5.5+ 
+- Swift 5.5+
